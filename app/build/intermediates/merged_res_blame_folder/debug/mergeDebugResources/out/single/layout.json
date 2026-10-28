@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.controleagua.app-mergeDebugResources-30:/layout/activity_registro.xml",
+        "source": "com.example.controleagua.app-main-33:/layout/activity_registro.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-mergeDebugResources-30:/layout/activity_resumo.xml",
+        "source": "com.example.controleagua.app-main-33:/layout/activity_resumo.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.controleagua.app-main-33:/layout/activity_main.xml"
+    }
+]

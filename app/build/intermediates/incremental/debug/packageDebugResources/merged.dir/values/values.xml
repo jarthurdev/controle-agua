@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#03A9F4</color>
+    <color name="background">#F4F8FB</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="error">#EF4444</color>
+    <color name="primary">#0288D1</color>
+    <color name="primary_dark">#01579B</color>
+    <color name="primary_light">#E1F5FE</color>
+    <color name="secondary">#00ACC1</color>
+    <color name="success">#10B981</color>
+    <color name="success_light">#D1FAE5</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="warning">#F59E0B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">ControleAgua</string>
+    <string name="btn_add_200">+200 ml (Copo)</string>
+    <string name="btn_add_300">+300 ml (Copo Grande)</string>
+    <string name="btn_adicionar_personalizado">Adicionar Quantidade</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_configurar_meta">Configurar Meta</string>
+    <string name="btn_ir_para_registro">Registrar Consumo</string>
+    <string name="btn_ir_para_resumo">Ver Resumo</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="dialog_meta_message">Informe sua meta de consumo diário em ml (ex: 2000):</string>
+    <string name="dialog_meta_title">Definir Meta Diária</string>
+    <string name="erro_campo_vazio">Por favor, preencha o valor em ml.</string>
+    <string name="erro_valor_invalido">Insira uma quantidade maior que zero.</string>
+    <string name="hint_meta_ml">Ex: 2500</string>
+    <string name="hint_personalizado_ml">Quantidade em ml (ex: 500)</string>
+    <string name="label_consumido">Consumido Hoje</string>
+    <string name="label_consumo_resumo">Total Ingerido: %1$d ml</string>
+    <string name="label_data_hoje">Data: %1$s</string>
+    <string name="label_meta_diaria">Meta Diária</string>
+    <string name="label_meta_resumo">Meta Estipulada: %1$d ml</string>
+    <string name="label_ou_personalizado">Ou digite um valor personalizado:</string>
+    <string name="label_percentual_resumo">Percentual Alcançado: %1$d%%</string>
+    <string name="label_restante">Restante</string>
+    <string name="msg_sucesso_registro">%1$d ml adicionados com sucesso!</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="status_meta_atingida">Parabéns! Meta diária atingida com sucesso! 🎉</string>
+    <string name="status_meta_pendente">Faltam %1$d ml para você atingir a meta de hoje. Continue firme! 💧</string>
+    <string name="status_meta_superada">Incrível! Você superou a sua meta diária! 🌟</string>
+    <string name="subtitle_home">Acompanhe sua hidratação diária</string>
+    <string name="subtitle_registro">Adicione a quantidade de água ingerida</string>
+    <string name="subtitle_resumo">Desempenho da sua hidratação</string>
+    <string name="title_home">Controle de Água</string>
+    <string name="title_registro">Registrar Consumo</string>
+    <string name="title_resumo">Resumo do Dia</string>
+    <string name="unit_ml">%1$d ml</string>
+    <style name="Theme.ControleAgua" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/primary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

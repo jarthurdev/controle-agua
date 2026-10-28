@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.controleagua.app-debug-31:/layout_activity_registro.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/layout/activity_registro.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-debug-31:/drawable_ic_water_drop.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/drawable/ic_water_drop.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-debug-31:/drawable_progress_bar_custom.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/drawable/progress_bar_custom.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-debug-31:/drawable_bg_card.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-debug-31:/layout_activity_resumo.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/layout/activity_resumo.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.controleagua.app-debug-31:/drawable_bg_stat_card.xml.flat",
+        "source": "com.example.controleagua.app-main-33:/drawable/bg_stat_card.xml"
+    }
+]
